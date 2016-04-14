@@ -17,6 +17,6 @@ public class App
     @Override
     public String toString()
     {
-        return "App{}";
+        return "MEILLEUR TOSTRING NOOB";
     }
 }
