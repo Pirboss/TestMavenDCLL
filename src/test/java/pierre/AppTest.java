@@ -1,4 +1,4 @@
-package Pierre;
+package pierre;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
